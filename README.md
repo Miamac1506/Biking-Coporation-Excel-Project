@@ -12,4 +12,5 @@ The data includes all orders booked by two main customer types in 2014: IN for i
 - Revenue each month of this year and the month-over-month growth rate
 - Ratio between two types of customers and the growth rate of each type
 - Revenue for each product category/sub-category/product this month compared to last month and the growth rate
-![EEG Band Discovery] (IMG_0450.jpg)
+  
+![Sale Report] (IMG_0450.jpg)
