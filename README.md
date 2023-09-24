@@ -13,4 +13,5 @@ The data includes all orders booked by two main customer types in 2014: IN for i
 - Ratio between two types of customers and the growth rate of each type
 - Revenue for each product category/sub-category/product this month compared to last month and the growth rate
   
-![Sale Report] (IMG_0450.jpg)
+![IMG_0450](https://github.com/Miamac1506/Biking-Coporation-Excel-Project/assets/145936074/61c5e1c8-e415-430e-b00e-501b17f7e466)
+
