@@ -1,7 +1,7 @@
 # About
 
 ### Introduction
-KPIM Corporation is a bike manufacturing company which sells bikes through 2 main channels: an Online Store dor Individual Customer and through Distributor or other Sales Contact.
+KPIM Corporation is a bike manufacturing company which sells bikes through 2 main channels: an Online Store for Individual Customer and through Distributor or other Sales Contact.
 
 ### Data
 The data includes all orders booked by two main customer types in 2014: IN for individual customers and CS for sales contacts. Information you can use to analyze includes product hierarchy, territory, sales program, different time periods (order, ship, due date) and the Line Total is the actual Revenue received for that order. 
