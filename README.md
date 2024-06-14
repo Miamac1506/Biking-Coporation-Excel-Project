@@ -4,7 +4,7 @@
 KPIM Corporation is a bike manufacturing company which sells bikes through 2 main channels: an Online Store for Individual Customer and through Distributor for other Sales Contacts.
 
 ### Data
-The data includes all orders booked by two main customer types in 2014: IN for individual customers and CS for sales contacts. Information you can use to analyze includes product hierarchy, territory, sales program, different time periods (order, ship, due date) and the Line Total is the actual Revenue received for that order. 
+The dataset of over 10 sheets and 30,000 collumns icludes all orders booked by two main customer types in 2014: IN for individual customers and CS for sales contacts. Information you can use to analyze includes product hierarchy, territory, sales program, different time periods (order, ship, due date) and the Line Total is the actual Revenue received for that order. 
 
 ### Proposal
 - Used Excel to create a dashboard including charts, graphs, and tables that can be easily updated by using pivot tables and adding new data to identify sales   metrics for the sales team
